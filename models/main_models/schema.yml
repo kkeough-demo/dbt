@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: main_model_demo
+    tables:
+      - name: a
+      - name: b
+      - name: c
